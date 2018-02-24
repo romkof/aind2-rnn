@@ -16,3 +16,11 @@ __pycache__/
 .venv
 venv/
 ENV/
+.idea/
+.idea/aind2-rnn.iml
+.idea/aind2-rnn.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/vcs.xml
